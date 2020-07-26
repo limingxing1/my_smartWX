@@ -94,7 +94,6 @@ JAVA开发框架：Spring MVC+Spring+Mybatis
 ## 页面展示
 
 ![登陆页](https://gitee.com/uploads/images/2018/0513/142230_56517aa2_1256378.png "登陆页.png")
-![首页](https://gitee.com/uploads/images/2018/0416/121734_4481f09b_1256378.png "首页.png")
 ![账号信息](https://gitee.com/uploads/images/2018/0416/121832_438ad9c0_1256378.png "账号信息.png")
 ![菜单](https://gitee.com/uploads/images/2018/0416/121900_097ad23f_1256378.png "菜单.png")
 ![单图文](https://gitee.com/uploads/images/2018/0416/121924_d1f66f51_1256378.png "单图文.png")
