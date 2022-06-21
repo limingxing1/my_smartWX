@@ -49,7 +49,7 @@
         <servlet-api.version>3.0.1</servlet-api.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <!-- jdbc driver setting -->
-        <mysql.driver.version>8.0.12</mysql.driver.version>
+        <mysql.driver.version>8.0.28</mysql.driver.version>
 
         <!-- environment setting -->
         <jdk.version>1.8</jdk.version>
